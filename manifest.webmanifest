@@ -1,0 +1,33 @@
+{
+  "name": "NLAg Formulator",
+  "short_name": "NLAg",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "description": "Next Level Ag formulator, corn guide and field zone maps \u2014 with Drive mode to find and map fields from the truck.",
+  "background_color": "#003DA5",
+  "theme_color": "#003DA5",
+  "orientation": "any",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
